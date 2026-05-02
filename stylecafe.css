@@ -1,0 +1,78 @@
+body {
+    font-family: 'Balsamiq Sans', cursive;
+}
+.balsamiq-sans-regular {
+    font-family: "Balsamiq Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #c2dc80;
+}
+h1, h2, h3, h4, h5, h6 {
+    background-color: #f3eef1;
+    color: #d56989;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav li {
+    list-style: none;
+    display: inline;
+    justify-content: center;
+    gap: 50px;
+    padding: 15px;
+}
+nav a:hover{
+    color: #ea9caf;
+    text-align: center;
+}
+a:hover{
+    color: #ea9caf;
+}
+section{
+    padding: 50px 50px 30px 30px;
+    box-sizing: border-box;
+}
+    article {
+        background-color: #ea9caf;
+        padding: 20px;
+        margin: 20px auto;
+        max-width: 800px;
+        border-radius: 15px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+article img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+input {
+    width: 15%;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+button {
+    background-color: #d56989;
+    color: #f3eef1;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #c2dc80;
+}
